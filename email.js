@@ -1,4 +1,4 @@
-// Now On git
+// Now On git - Fixed git Username I hope
 //
 // Instructions are for me (Terry Riegel) I am new to git
 //
