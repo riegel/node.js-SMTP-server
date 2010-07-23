@@ -2,15 +2,17 @@
 //
 // Instructions are for me (Terry Riegel) I am new to git
 //
-// STEP 1: git init                                                           # Get things rolling
-// STEP 2: git add filename                                                   # Add your files and send to github
+// STEP 1: git init                                                     # Get things rolling
+//
+// STEP 2: git add filename                                             # Add your files and send to github
 //         git commit -m "initial project commit"
 //         git remote add origin git@github.com:[username]/[repository]
 //         git push origin master
 //
-// STEP 3: git commit -a -m "reason for the commit"                           # new commit
-//         git push origin server
-// STEP 4: [do step 3 again]
+// STEP 3: git commit -a -m "reason for the commit"                     # new commit, send it out
+//         git push origin master
+// STEP 4: ^ [do step 3 again]
+//
 //
 // A Simple SMTP server to take email attachments and post them to the web
 // The basic server is running and accepting connections
