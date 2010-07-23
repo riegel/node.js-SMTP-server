@@ -5,7 +5,7 @@
 // STEP 1: git init                                                           # Get things rolling
 // STEP 2: git add filename                                                   # Add your files and send to github
 //         git commit -m "initial project commit"
-//         git remote add origin git@githun.com:[username]/[repository]
+//         git remote add origin git@github.com:[username]/[repository]
 //         git push origin master
 //
 // STEP 3: git commit -a -m "reason for the commit"                           # new commit
